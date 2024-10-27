@@ -1,0 +1,5 @@
+export default function about() {
+    return (
+          <span><h2>about-us</h2><br /><p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem aperiam odit nisi praesentium repudiandae laborum blanditiis sed voluptates rem hic, voluptatem ipsa saepe pariatur autem eveniet officiis illum quasi expedita.
+          Unde impedit maxime tempore voluptatibus eos. Odio, esse pariatur. Pariatur ex dolorum neque accusantium laboriosam suscipit tempora, amet quos, vero, animi nam ipsa? Eveniet, neque excepturi. Sapiente sed esse exercitationem?
+          Totam pariatur cumque sunt eius, similique illum doloribus ab consequatur illo voluptates animi voluptatum et sit aliquam repellendus, perspiciatis deserunt earum fuga. Facilis suscipit nulla cumque quisquam nemo error incidunt.</p></span>)};
